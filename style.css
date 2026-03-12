@@ -38,7 +38,7 @@ html {
 body {
   font-family: var(--font-body);
   color: var(--color-dark);
-  background-image: url('https://github.com/user-attachments/assets/b5057e9e-3a67-48ea-8c2e-4fa545b82fbf');
+  background-image: url('Messenger_creation_1869B8CC-CAFF-47AE-9C07-52595C48B83A.jpeg');
   background-attachment: fixed;
   background-size: cover;
   background-position: center;
@@ -430,7 +430,7 @@ body {
   gap: 1.5rem;
 }
 
-.diet-item {
+diet-item {
   display: flex;
   align-items: flex-start;
   gap: 1.25rem;
@@ -441,12 +441,12 @@ body {
   transition: var(--transition);
 }
 
-.diet-item:hover {
+diet-item:hover {
   transform: translateY(-5px);
   box-shadow: var(--shadow-lg);
 }
 
-.diet-num {
+diet-num {
   font-family: var(--font-title);
   font-size: 2rem;
   font-weight: 900;
@@ -456,14 +456,14 @@ body {
   line-height: 1;
 }
 
-.diet-content h3 {
+diet-content h3 {
   font-family: var(--font-title);
   font-size: 1.1rem;
   color: var(--color-dark);
   margin-bottom: 0.4rem;
 }
 
-.diet-content p {
+diet-content p {
   font-size: 0.88rem;
   color: #6D4C41;
   line-height: 1.7;
